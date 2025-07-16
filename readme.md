@@ -1,7 +1,5 @@
 # Color box
 
-![Preview](public/image.png)
-
 A simple and fun React app with a box that changes to a random color when clicked
 
 ## 🖼️ Preview
