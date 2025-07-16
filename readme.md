@@ -50,4 +50,4 @@ A simple and fun React app with a box that changes to a random color when clicke
 
 **Author:** Magesh Balram
 
-📧 **Email:** [mageshbalram@gmail.com](mailto:mageshbalram@gmail.com)
+📧 **Email:** [mageshbalram4@gmail.com](mailto:mageshbalram4@gmail.com)
